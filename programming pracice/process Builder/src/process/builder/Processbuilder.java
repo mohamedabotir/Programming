@@ -21,7 +21,7 @@ public class Processbuilder {
     public static void main(String[] args) {
         long start,end;
         start=System.currentTimeMillis();
-ProcessBuilder s=new ProcessBuilder("notepad","D:\\Programming\\programming pracice\\process Builder\\file.java.txt");
+ProcessBuilder s=new ProcessBuilder("NOTEPAD","D:\\Programming\\programming pracice\\process Builder\\file.java.txt");
         try {
             s.start();
            System.out.println( s.directory());
