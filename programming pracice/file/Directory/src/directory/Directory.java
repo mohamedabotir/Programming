@@ -9,14 +9,25 @@ package directory;
  *
  * @author Threading
  */
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 public class Directory {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        BufferedWriter out1;
+        try {
+            out1=new BufferedWriter(new FileWriter("saas.ffff",true));
+        } catch (IOException ex) {
+            Logger.getLogger(Directory.class.getName()).log(Level.SEVERE, null, ex);
+        }
         Scanner out=new Scanner(System.in);
         git(out.nextLine());
     }

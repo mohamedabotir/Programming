@@ -42,7 +42,7 @@ public class WriteFile {
     acc.setLname(input.next());
     try{
     if(acc.getBalance()>0.0)
-       output.format( "%s %s %s %.2f\n", acc.getAccount(),
+               output.format( "%s %s %s %.2f\n", acc.getAccount(),
 acc.getFname(), acc.getLname(),
 acc.getBalance() ); 
     }
