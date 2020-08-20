@@ -5,7 +5,7 @@
  */
 package local;
 
-import java.util.SimpleTimeZone;
+import java.util.Currency;
 import java.util.Locale;
 /**
  *
@@ -17,12 +17,13 @@ public class local{
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-Locale l=new Locale("AR","Egypt");
-
-System.out.println(l);
-System.out.println(l.getDisplayLanguage());
-   System.out.println(l.getDisplayCountry());
-   System.out.println(l.getISO3Language());
+Locale l1=new Locale("AR","Egypt");
+Currency c=Currency.getInstance(Locale.ITALY);
+System.out.println(l1);
+System.out.println(l1.getDisplayLanguage());
+   System.out.println(l1.getDisplayCountry());
+   System.out.println(l1.getISO3Language());
+   System.out.println(c);
     }
     
 }
