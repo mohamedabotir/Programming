@@ -44,7 +44,7 @@ public class Format {
     //justification 0 space + ,left jusfification -d for number or -s for String or -.3f for double 
     // + for positive
     fmt=new Formatter();
-    fmt.format("%+.3e", +12225.3645);
+    fmt.format("%+.3e",12225.3645);
     System.out.println(fmt);
     // + for negative
     fmt=new Formatter();
