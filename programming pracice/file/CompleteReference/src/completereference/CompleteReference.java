@@ -25,6 +25,8 @@ public class CompleteReference {
        System.out.printf("%.2f%2$s",(store.getFreeSpace()/(1024.0*1024.0*1024)),"gb");
        System.out.println("\n"+df.format(store.getUsableSpace()/(1024.0*1024.0*1024))+"gb");
        System.out.println(store.getTotalSpace()/(1024*1024*1024)+"gb");
+       System.out.println(store.delete());
+       System.out.println(store.mkdirs());
     }
     
 }
