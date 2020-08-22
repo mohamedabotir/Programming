@@ -1,0 +1,5 @@
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\PrintSquareByNumber\PrintSquareByNumber\bin\Debug\PrintSquareByNumber.exe.config
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\PrintSquareByNumber\PrintSquareByNumber\bin\Debug\PrintSquareByNumber.exe
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\PrintSquareByNumber\PrintSquareByNumber\bin\Debug\PrintSquareByNumber.pdb
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\PrintSquareByNumber\PrintSquareByNumber\obj\Debug\PrintSquareByNumber.exe
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\PrintSquareByNumber\PrintSquareByNumber\obj\Debug\PrintSquareByNumber.pdb

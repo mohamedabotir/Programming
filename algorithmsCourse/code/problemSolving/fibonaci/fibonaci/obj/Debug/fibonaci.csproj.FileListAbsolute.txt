@@ -1,0 +1,6 @@
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\fibonaci\fibonaci\bin\Debug\fibonaci.exe.config
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\fibonaci\fibonaci\bin\Debug\fibonaci.exe
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\fibonaci\fibonaci\bin\Debug\fibonaci.pdb
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\fibonaci\fibonaci\obj\Debug\fibonaci.csprojResolveAssemblyReference.cache
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\fibonaci\fibonaci\obj\Debug\fibonaci.exe
+C:\Users\Threading\Documents\Visual Studio 2012\Projects\fibonaci\fibonaci\obj\Debug\fibonaci.pdb
