@@ -1,0 +1,6 @@
+E:\Programming\Programming\algorithmsCourse\resources\coding\week2\LeastCommonMultipleCSharp\LeastCommonMultipleCSharp\bin\Debug\LeastCommonMultipleCSharp.exe.config
+E:\Programming\Programming\algorithmsCourse\resources\coding\week2\LeastCommonMultipleCSharp\LeastCommonMultipleCSharp\bin\Debug\LeastCommonMultipleCSharp.exe
+E:\Programming\Programming\algorithmsCourse\resources\coding\week2\LeastCommonMultipleCSharp\LeastCommonMultipleCSharp\bin\Debug\LeastCommonMultipleCSharp.pdb
+E:\Programming\Programming\algorithmsCourse\resources\coding\week2\LeastCommonMultipleCSharp\LeastCommonMultipleCSharp\obj\Debug\LeastCommonMultipleCSharp.csprojResolveAssemblyReference.cache
+E:\Programming\Programming\algorithmsCourse\resources\coding\week2\LeastCommonMultipleCSharp\LeastCommonMultipleCSharp\obj\Debug\LeastCommonMultipleCSharp.exe
+E:\Programming\Programming\algorithmsCourse\resources\coding\week2\LeastCommonMultipleCSharp\LeastCommonMultipleCSharp\obj\Debug\LeastCommonMultipleCSharp.pdb
