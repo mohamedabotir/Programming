@@ -1,0 +1,13 @@
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\bin\Debug\netcoreapp3.1\CommonDividor.exe
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\bin\Debug\netcoreapp3.1\CommonDividor.deps.json
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\bin\Debug\netcoreapp3.1\CommonDividor.runtimeconfig.json
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\bin\Debug\netcoreapp3.1\CommonDividor.runtimeconfig.dev.json
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\bin\Debug\netcoreapp3.1\CommonDividor.dll
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\bin\Debug\netcoreapp3.1\CommonDividor.pdb
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\obj\Debug\netcoreapp3.1\CommonDividor.csprojAssemblyReference.cache
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\obj\Debug\netcoreapp3.1\CommonDividor.AssemblyInfoInputs.cache
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\obj\Debug\netcoreapp3.1\CommonDividor.AssemblyInfo.cs
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\obj\Debug\netcoreapp3.1\CommonDividor.csproj.CoreCompileInputs.cache
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\obj\Debug\netcoreapp3.1\CommonDividor.dll
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\obj\Debug\netcoreapp3.1\CommonDividor.pdb
+C:\Users\Threading\Desktop\ConsoleApp1\CommonDividor\obj\Debug\netcoreapp3.1\CommonDividor.genruntimeconfig.cache
